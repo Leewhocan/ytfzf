@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T10:29:10.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7zpm8cY4XIsA4w3D9WSO" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T10:32:01.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5JdcoP5F4GatNtqTkq9V" version="21.0.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="519" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="177" dy="91" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,42 +73,6 @@
         <mxCell id="XBDZjMG_k9APAXd4hIY6-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="XBDZjMG_k9APAXd4hIY6-9">
           <mxGeometry x="45" y="480" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XBDZjMG_k9APAXd4hIY6-11" value="3 - Запрос на получение данных о кандидате" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
-          <mxGeometry x="0.0158" y="-10" relative="1" as="geometry">
-            <mxPoint x="995" y="280" as="sourcePoint" />
-            <mxPoint x="650" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="280" />
-              <mxPoint x="770" y="260" />
-              <mxPoint x="860" y="220" />
-              <mxPoint x="815" y="220" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XBDZjMG_k9APAXd4hIY6-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.005;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XBDZjMG_k9APAXd4hIY6-25" target="XBDZjMG_k9APAXd4hIY6-10">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="995.2299999999998" y="469.8299999999999" as="sourcePoint" />
-            <mxPoint x="530" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XBDZjMG_k9APAXd4hIY6-17" value="5 - Отправка ответа в систему отправки ответов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XBDZjMG_k9APAXd4hIY6-16">
-          <mxGeometry x="-0.2863" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XBDZjMG_k9APAXd4hIY6-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.94;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.027;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XBDZjMG_k9APAXd4hIY6-31" target="XBDZjMG_k9APAXd4hIY6-23">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="300" y="510" as="sourcePoint" />
-            <mxPoint x="160" y="510" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XBDZjMG_k9APAXd4hIY6-19" value="6 - Отправка ответа кандидату" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XBDZjMG_k9APAXd4hIY6-18">
-          <mxGeometry x="0.0245" y="-1" relative="1" as="geometry">
-            <mxPoint y="-9" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XBDZjMG_k9APAXd4hIY6-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=-0.039;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XBDZjMG_k9APAXd4hIY6-24">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="360" as="sourcePoint" />
@@ -118,6 +82,25 @@
         <mxCell id="XBDZjMG_k9APAXd4hIY6-15" value="4 - Отправка данных о кандидате по запросу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XBDZjMG_k9APAXd4hIY6-14">
           <mxGeometry x="0.079" y="2" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDZjMG_k9APAXd4hIY6-32" value="3 - Запрос на получение данных о кандидате" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=-0.045;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XBDZjMG_k9APAXd4hIY6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="280" as="sourcePoint" />
+            <mxPoint x="650" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDZjMG_k9APAXd4hIY6-34" value="5 - Отправка ответа в систему отправки ответов" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="XBDZjMG_k9APAXd4hIY6-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="440" as="sourcePoint" />
+            <mxPoint x="920" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDZjMG_k9APAXd4hIY6-35" value="6 - Отправка ответа кандидату" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.97;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XBDZjMG_k9APAXd4hIY6-23">
+          <mxGeometry x="-0.0266" y="-10" relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="sourcePoint" />
+            <mxPoint x="160" y="560" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
